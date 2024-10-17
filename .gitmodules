@@ -1,0 +1,3 @@
+[submodule "NeuroTask"]
+	path = NeuroTask
+	url = https://github.com/catniplab/NeuroTask.git
